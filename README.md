@@ -12,10 +12,31 @@ Döngü işletilirken kazanan olursa bu döngü kırılır ve program sonlandır
 Oyundayken her yeni durumda, tahtanın güncel halini yazan statik tahtaYazdir fonksiyonu vardır.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
-Statik tahtaKontrol fonksiyonu harf yerleştirmenin yapılacağı zaman,
- tahtaya harf yerleştirmeyi sağlar. Tahtada daha önceden bu konuma harf yerleştirilmişse konumun dolu olduğunu bilgi olarak hamle isteme aşamasına gönderir.
+Statik tahtaKontrol fonksiyonu harf yerleştirmenin yapılacağı zaman tahtaya harf yerleştirmeyi sağlar. 
+Tahtada daha önceden bu konuma harf yerleştirilmişse, konumun dolu olduğunu bilgi olarak hamle isteme aşamasına gönderir.
  
 -----------------------------------------------------------------------------------------------------------------------------------------
 Her başarılı harf yerleştirmeden sonra, kazanan oyuncu olup olmadığı statik kazananKontrol fonksiyonu tarafından belli konumlar üzerinde kontrol edilir.
 
+___________________________________________________________________________________________________________________________________
 
+## Programda harf yerleştirme işlemi
+![logo](img/2.png)
+
+___________________________________________________________________________________________________________________________________
+
+## Programda kazanan kontrol işlemi
+![logo](img/1.png)
+
+İletişim
+------------------------------
+
+2015141003@cumhuriyet.edu.tr
+
+https://www.facebook.com/recep0018
+
+www.recepkarademir.com
+
+https://recepkarademir.blogspot.com.tr
+
+https://recepkarademir.wordpress.com
