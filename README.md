@@ -19,14 +19,13 @@ Tahtada daha önceden bu konuma harf yerleştirilmişse, konumun dolu olduğunu 
 Her başarılı harf yerleştirmeden sonra, kazanan oyuncu olup olmadığı statik kazananKontrol fonksiyonu tarafından belli konumlar üzerinde kontrol edilir.
 
 ___________________________________________________________________________________________________________________________________
-
 ## Programda harf yerleştirme işlemi
 ![logo](img/2.png)
 
 ___________________________________________________________________________________________________________________________________
-
 ## Programda kazanan kontrol işlemi
 ![logo](img/1.png)
+
 
 İletişim
 ------------------------------
