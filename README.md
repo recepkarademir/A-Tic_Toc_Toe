@@ -29,8 +29,6 @@ ________________________________________________________________________________
 
 İletişim
 ------------------------------
-https://www.facebook.com/recep0018
-
 https://recepkarademir.blogspot.com.tr
 
 https://recepkarademir.wordpress.com
