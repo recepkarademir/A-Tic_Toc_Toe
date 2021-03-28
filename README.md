@@ -29,12 +29,7 @@ ________________________________________________________________________________
 
 İletişim
 ------------------------------
-
-2015141003@cumhuriyet.edu.tr
-
 https://www.facebook.com/recep0018
-
-www.recepkarademir.com
 
 https://recepkarademir.blogspot.com.tr
 
