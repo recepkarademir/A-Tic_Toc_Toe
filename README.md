@@ -27,10 +27,4 @@ ________________________________________________________________________________
 ![logo](img/1.png)
 
 
-İletişim
-------------------------------
-https://recepkarademir.blogspot.com.tr
-
-https://recepkarademir.wordpress.com
-
 ## BU PROJENİN KULLANILABİLİRLİK SEVİYESİ: 8/10
